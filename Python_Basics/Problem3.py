@@ -1,4 +1,4 @@
-# Write a Python program to check the validity of password input by users.  
+#Problem Statement: Write a Python program to check the validity of password input by users.  
 # Validation:  
 # 1. At least 1 letter between [a-z] and 1 letter between [A-Z].  
 # 2. At least 1 number between [0-9].  
